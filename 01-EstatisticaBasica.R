@@ -43,7 +43,7 @@ library(ggplot2)
 #cria o grafico
 ggplot(vendas) + 
   stat_summary(aes(x = Estado,
-                    y = Valor),
+                   y = Valor),
                fun = mean,
                geom = "bar",
                fill = "lightgreen",
