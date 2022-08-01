@@ -1,4 +1,4 @@
-setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R")
+setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/ini-R/Data/6-Vendas")
 getwd()
 
 # Carregamento dataset 

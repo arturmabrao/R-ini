@@ -1,7 +1,7 @@
 # Estatística Básica -  P2: Medidas de dispersão
 
 #Definindo pasta de trabalho
-setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R")
+setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/ini-R/Data/6-Vendas")
 getwd()
 
 # Carregamento dataset 
