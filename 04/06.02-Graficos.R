@@ -1,7 +1,7 @@
 # Parte 5.2
 # Plotando Gráficos com ggplot2
 
-setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/ini-R/Export-RFiles")
+setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/ini-R")
 getwd()
 
 library(ggplot2)
