@@ -1,8 +1,8 @@
-setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/ini-R/Data/6-Vendas")
+setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/ini-R")
 getwd()
 
 # Carregamento dataset 
-vendas <- read.csv("Vendas.csv", fileEncoding = "windows-1252")
+vendas <- read.csv("Data/6-Vendas/Vendas.csv", fileEncoding = "windows-1252")
 
 #Resumo do dataset
 View(vendas)
