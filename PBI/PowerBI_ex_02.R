@@ -25,3 +25,11 @@ medidas_iris <- summarize(group_by(dados_iris, Species),
                           media_petal_length = mean(Petal.Length),
                           media_petal_width = mean(Petal.Width))
 View(medidas_iris)
+
+
+#T2: Extrair o numero inteiro de uma das colunas
+library(data.table)
+dados_iris_id <- data.table(dados_iris)
+View(dados_iris_id)
+dados_iris_id$Sepal.Length <- as.integer(dados_iris_id$Sepal.Length)
+View(dados_iris_id)
