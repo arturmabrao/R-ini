@@ -1,7 +1,7 @@
 # Parte 5.3
 # Plotando Gráficos com ggplot2
 
-setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/ini-R/Export-RFiles")
+setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/DS-ini")
 getwd()
 
 # Gráfico de Pizza - Pie Chart

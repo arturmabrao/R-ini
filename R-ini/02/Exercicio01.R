@@ -1,9 +1,9 @@
 # Lista exercicios 1
 
-setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/ini-R/Data/1-Notas")
+setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/DS-ini")
 getwd()
 
-notas <- read.csv("Notas.csv", fileEncoding = "windows-1252")
+notas <- read.csv("./R-ini/Data/1-Notas/Notas.csv", fileEncoding = "windows-1252")
 
 # Exercicio 1
 View(notas)

@@ -1,6 +1,5 @@
 # Parte 4
-
-setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/ini-R/Data/Usuarios")
+setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/DS-ini")
 getwd()
 
 dados  <- read.table("Usuarios.csv",

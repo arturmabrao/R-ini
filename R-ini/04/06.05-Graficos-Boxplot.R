@@ -1,6 +1,6 @@
 # Parte 5.5
 
-#setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/ini-R/Export-RFiles")
+#setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/DS-ini")
 #getwd()
 
 

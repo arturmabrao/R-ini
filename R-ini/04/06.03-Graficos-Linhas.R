@@ -1,7 +1,7 @@
 # Parte 5.4
 # Plotando Gráficos com ggplot2
 
-#setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/ini-R/Export-RFiles")
+setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/DS-ini")
 #getwd()
 
 carros <- c(1, 3, 6, 4, 9)

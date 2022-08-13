@@ -1,6 +1,6 @@
 
-setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/ini-R")
-getwd()
+#setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/DS-ini")
+#getwd()
 
 vendas <- read.csv("Data/6-Vendas/Vendas.csv", fileEncoding = "windows-1252")
 

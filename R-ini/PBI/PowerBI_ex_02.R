@@ -1,6 +1,6 @@
 #Dir
-setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/ini-R")
-getwd()
+#setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/DS-ini")
+#getwd()
 
 #Instalando Pacotes
 install.packages("dplyr")

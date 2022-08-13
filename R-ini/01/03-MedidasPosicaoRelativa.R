@@ -1,9 +1,8 @@
 # Parte 3
-
-setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/ini-R/Data/6-Vendas")
+setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/DS-ini")
 getwd()
 
-vendas <- read.csv("Vendas.csv", fileEncoding = "windows-1252")
+vendas <- read.csv("./R-ini/Data/6-Vendas/Vendas.csv", fileEncoding = "windows-1252")
 
 head(vendas)
 tail(vendas)

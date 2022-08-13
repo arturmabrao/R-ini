@@ -1,9 +1,9 @@
 # Parte 5.1
 # Plotando Gráficos com Barplot
 
-
-setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/ini-R/Export-RFiles")
+setwd("D:/Estudo/Tecnologias/BI/PowerBI/Cap12/R/DS-ini")
 getwd()
+
 
 # Dados
 vetor_total_resultados = c(3, 12 ,5, 18, 45)
